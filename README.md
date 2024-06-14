@@ -27,4 +27,7 @@ And you are ready to play!
 
 <img src="docs/images/Testing Azure agent.png" width="50%" style="text-align:center" />
 
+<img src="docs/images/ask azure.png" width="50%" style="text-align:center" />
+
+
 Happy coding 🤖💙!
