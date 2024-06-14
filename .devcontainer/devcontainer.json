@@ -10,7 +10,8 @@
 				"DavidAnson.vscode-markdownlint",
 				"GitHub.copilot@prerelease",
 				"GitHub.copilot-chat@prerelease",
-				"ms-vscode.vscode-node-azure-pack"
+				"ms-vscode.vscode-node-azure-pack",
+				"/tmp/vscode-azure-github-copilot.vsix"
 			]
 		}
 	},
