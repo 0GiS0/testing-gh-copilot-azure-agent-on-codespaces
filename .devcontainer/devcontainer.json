@@ -3,7 +3,7 @@
 {
 	"name": "GitHub Copilot for Azure Playground",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.20",
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu",
 	"customizations": {
 		"vscode": {
 			"extensions": [

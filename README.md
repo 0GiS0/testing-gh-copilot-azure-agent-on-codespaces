@@ -16,6 +16,7 @@ All you need is to have three Codespace user secrets to download the latest vers
 
 - `OWNER_FOR_VSIX`: The name of the organization where vsix is located.
 - `REPO_FOR_VSIX`: The name of the repository where the vsix is located.
+- `RELEASE_VERSION`(Optional): The version you want to use of this agent, because is in development and some versions may fail. (For example: `RELEASE_VERSION="v0.2.0-privatepreview"`)
 
 Please, make sure that you have a preference in your Codespaces environment to use the `Insiders` version instead of the stable version.
 
